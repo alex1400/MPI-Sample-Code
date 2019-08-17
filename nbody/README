@@ -10,4 +10,5 @@ Content:
 
 
 
-The N-body problem is simply to compute the trajectory of objects in space as driven by gravitational forces. You can find more details about the problem here. Your task is to convert the sequential program we provide into a parallel program using C and the MPI (Message Passing Interface) communication library. The application has to be run and benchmarked on the DAS4.
+# Description
+The N-body problem is simply to compute the trajectory of objects in space as driven by gravitational forces. You can find more details about the problem in wikipedia. We convert the sequential program into a parallel program using C and the MPI (Message Passing Interface) communication library. The application is ran and benchmarked on the DAS4.
