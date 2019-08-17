@@ -1,13 +1,10 @@
-MPI assignment for the Parallel Programming Practical (PPP)
+MPI implementation for Game of Life problem
 
 Content:
 
-- gol		Contains sequential version of the Game of Life algorithm
-			Create parallel version of the Game of Life algorithm there 
-			and name it gol-par.
+- gol		Contains sequential version of the Game of Life algorithm, the parallel version of the Game of Life algorithm named gol-par.
 
-- docs		Place there your report.
+- docs		We place there your report.
 
 - bin		Contains gol-sanity-check (comparison with expected output)
-			Do not submit programs which do not go through sanity-checks successfully.
 
