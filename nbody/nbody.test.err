@@ -1,0 +1,5 @@
+Reservation number 347628: Reserved 2 hosts for 900 seconds 
+Run on 2 hosts for 960 seconds from Wed Aug 14 11:28:52 2019
+: node002/0 node003/0 
+Running N-body with 32 bodies and 100000 steps
+N-body took      6.462 seconds

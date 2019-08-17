@@ -1,0 +1,2 @@
+Prun fatal error: Command "nbody/nbody-par" not found in "." or PATH /cm/shared/apps/openmpi/gcc/64/1.10.3/bin:/home/ppp1804/chapel/common-source-identification/scripts:/cm/shared/apps/slurm/17.02.2/sbin:/cm/shared/apps/slurm/17.02.2/bin:/cm/local/apps/gcc/6.3.0/bin:/cm/shared/apps/torque/6.1.1/bin:/cm/shared/apps/torque/6.1.1/sbin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/sbin:/cm/local/apps/environment-modules/3.2.10/bin::/home/hphijma/chapel-1.18.0/bin/linux64:/cm/shared/package/reserve.slurm/bin:/home/ppp1804/.local/bin:/home/ppp1804/bin
+
